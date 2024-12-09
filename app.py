@@ -13,6 +13,7 @@ import os
 import subprocess
 from dotenv import load_dotenv
 
+# TODO: Add a way to save the chat history to a file and maybe turn them into flashcards
 # Load environment variables at the start of the file
 load_dotenv()
 
